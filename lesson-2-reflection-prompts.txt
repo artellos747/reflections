@@ -10,6 +10,8 @@ snapshot" of whole amount of files there and then they go to the repo.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+To check the difference between the Repo and working directory. Like a second 
+check before commiting the file.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
