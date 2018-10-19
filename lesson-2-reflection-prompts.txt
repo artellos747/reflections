@@ -20,6 +20,8 @@ mix it with the stable version. So you just may create a branch and do anything
 you want without damaging the original.
 
 How do the diagrams help you visualize the branch structure?
+It helps me to undererstand what commit goes after another. It shows what branches
+have in mutual and when starts difference.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
