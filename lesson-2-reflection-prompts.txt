@@ -29,3 +29,7 @@ The result is a branch with new features but without deletions. To see it cleare
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Git autumaticly merges only if there is no conflict situations. So it's great 
+that after some basic changes ( adding few lines) u don't need to merge files 
+manually. Saving the time. But in most of cases u will have conflicts, so u can't 
+"hide" from the manual merging. 
