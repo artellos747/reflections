@@ -11,3 +11,11 @@ remote repository?
 Because sometimes you don't want to update your current file
 f.e. u haven't tested it yet or u want to upload it with few 
 new features.
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+Fork - clones the repository in github. Clone - copies 
+the repository from "the internet" to the local machine.
+Branches - when you start to experiment with your main file 
+without damaging - you create it's "copy" that you can change 
+as you wish. 
