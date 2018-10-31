@@ -26,3 +26,8 @@ of the remote stored locally?
 
 To make a correct merge. 
 
+How would you collaborate without using Git or GitHub? What 
+would be easier, and what would be harder?
+
+Without Git is easier than without GitHub, because we have 
+the Internet. 
