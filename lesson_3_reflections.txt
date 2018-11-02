@@ -31,3 +31,9 @@ would be easier, and what would be harder?
 
 Without Git is easier than without GitHub, because we have 
 the Internet. 
+
+When would you want to make changes in a separate branch rather
+than directly in master? What benefits does each approach have?
+
+When you are not sure whether to make a change or not, so you want 
+to know what other people/smb else think about it.
