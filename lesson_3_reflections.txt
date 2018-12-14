@@ -40,3 +40,4 @@ to know what other people/smb else think about it.
 
 Test after the reset
 2-nd test push
+pull test
